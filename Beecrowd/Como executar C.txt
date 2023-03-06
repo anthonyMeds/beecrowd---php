@@ -1,0 +1,3 @@
+gcc programa.c -o programa && ./programa
+
+COMPILA E EXECUTA
