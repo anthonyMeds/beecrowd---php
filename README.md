@@ -1,3 +1,5 @@
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
 # Resolução de questões para treinar lógica de programação em PHP no BeeCrowd (URI - Online Judge)
 
 Este repositório contém a minha solução para as questões do BeeCrowd Online Judge, que são voltadas para treinar lógica de programação em PHP.
